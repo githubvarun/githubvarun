@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data structures, React Js**
 
-- 👯 I’m looking to collaborate on **Python language**
+- 👯 I’m looking to collaborate on **Java language**
 
 - 🤝 I’m looking for help with **Algorithms**
 
